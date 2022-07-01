@@ -5,7 +5,7 @@ A monitor behind a one-way mirror displays modules -- such as the weather, news 
 |:--:|:--:|:--:|:--:|
 | Maddie Matsuno | St. Ignatius College Prep | Electrical Engineering, Biomedical Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXNNEexJZXG0rhzkDKlTjmvRZy62tt_CoucRyaxNVbtEX8kDW6X9k_o2XmoF_nm-rvpAFmIHcPhf4AWfw8bw5wHvXVqkbz9FFz6AR6FgStcOLv2v2vO7t98qGfFoYlblkWpPytVqtL1oaAsK2RSrZc=s1386-no?authuser=0)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
