@@ -3,7 +3,7 @@ A monitor behind a one-way mirror displays modules -- such as the weather, news 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Maddie Matsuno | St. Ignatius College Prep | Electrical Engineering, Biomedical Engineering | Incoming Senior
+| Maddie Matsuno | St. Ignatius College Prep | Mechanical Engineering, Biomedical Engineering | Incoming Senior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXNNEexJZXG0rhzkDKlTjmvRZy62tt_CoucRyaxNVbtEX8kDW6X9k_o2XmoF_nm-rvpAFmIHcPhf4AWfw8bw5wHvXVqkbz9FFz6AR6FgStcOLv2v2vO7t98qGfFoYlblkWpPytVqtL1oaAsK2RSrZc=s1386-no?authuser=0)
   
