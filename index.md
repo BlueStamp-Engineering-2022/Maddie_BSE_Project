@@ -7,7 +7,7 @@ A monitor behind a one-way mirror displays modules -- such as the weather, news 
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXNNEexJZXG0rhzkDKlTjmvRZy62tt_CoucRyaxNVbtEX8kDW6X9k_o2XmoF_nm-rvpAFmIHcPhf4AWfw8bw5wHvXVqkbz9FFz6AR6FgStcOLv2v2vO7t98qGfFoYlblkWpPytVqtL1oaAsK2RSrZc=s1386-no?authuser=0)
   
-# Final Milestone
+# Final Milestone (modifications)
 One modification idea occured when I was thinking about how to mount the frame to the wall, I was having trouble thinking about ways to support the weight of the monitor. I ended up going with mount, with 1" x 2" wood (width of wood is 1.75"). I measured the inside of the frame (21.5") and subtracted a little to make it easier for the mount to slip in. This amounts to 21.375" (21 3/8") across and to have it stay in the first mount that was already in my frame, I used the same 1" x 2" wood to cut two 5.25" pieces and wood glued those perpendicular to the 21.375" piece. (see fig. 1 for details)
 ![Diagram 1: Mount on Back](https://lh3.googleusercontent.com/w-JQT-IDGCuHge05eWMu8iMTg-23bTT2oDkA89sQSVi0i4y2ViMp0ilg6jfK2gWfX_GaFx91lCUDBwqYOsDrAELmVcjW8gsV8NDThYc-FFdWwGK-LO9_3cwsgHrGxbquNo7_SvvKLlG4rojEGy4iD18shDp-n-HjwnGpo1-0y8nLQJq1PXjEucn6ffmMZUH7sNAIV8kiY2H3mRhEXuhUZS5pgmTLzhGPMrPj-kvwiQ6acymIjz_hOaHuOVru-F8gFJKoRCYT8SDFlkMEOngTy1Sjnd_gtZbTNwunB28oSRrK1rv2aAoWXNOlxWJ47OYGshDoUSXpnb-ZQLDFRxTpuQqLky-UIt0xC90gb-_cUjsjtARGeY1CMbeDIsNv1rfPLDW3pTc9djaAhMCPSnSH7WoBSVVhbXuAnVVGvfyk32098QPDxGob-c0_ff9BltpUcFhmnuCpiNkq0XQkTcaCOkqh_A9qnd_wQAFchHWCwiwhMVqjxiiF3SyijfENyrRx9e7bgVC9y1QCAVR6besgCztal5jA8R3znH1b3YCjuNeJA9HOuB2vrVaeWHCIiDzZw4gSHGLc-_C287MFqydURju6QH4pF2kLLW_qNiGzMGk1DU751a_FZ2G5YFXv0HLiH7C5ucTD-pB3cRUT2Z4wd5dvuVMA0tynzwiICZUnD3qv5-a9aW6NGMbDWLIhfPHaBQm-sWD36eWMN4JBR3SPndrbfhapZEeolPHhVVLvhL4cv6aWB3gCo_Te1OKhtZkyktD7X8IPqwNSEnju3kpbudMhqXP0Z4DsTPbzd_cpWkDU4ENuy4wxqnvaqB9nEdPxpeT0HlM2GbIeynKpAtrRdgKH-wW_hxXOhbd-BipB-PjcOUbfwVNOViieyNiKLT08-W5YmLoQfqTbUoncKmF2zPAG9Ql-qCwzFCiVNL_wvvOsJQ7E2ToC6aFECGGbiO28nsNX2439s8RFIWqK5JYuiCbp1tOmarC-No0ESmIbJIhViUjgf69JBJOn=w1184-h444-no?authuser=4)
 fig. 1
@@ -28,9 +28,8 @@ I used 1" x 3" wood to make the shelf according to the diagram above and attache
 
 [![Final Milestone](https://i3.ytimg.com/vi/5suuOrvbCk8/maxresdefault.jpg)](https://www.youtube.com/watch?v=5suuOrvbCk8)
 
-# Second Milestone
+# Second Milestone (hardware)
 My second milestone is the hardware part of the project, which includes the frame for the monitor. To get the dimensions for my frame, I measured the monitor screen (21.5" x 12.75") and added 1/8" so it wouldn't be too tight when putting the monitor in. The wood I used for the main part of the frame is 1" x 4" (width of wood from the front is 0.75") so I added 0.75" to the monitor screen measurements to get the measurements for the individual pieces of woods that I needed to cut. After adding 0.75" to the 21.5" and 12.75" measurements, I measured and cut two pieces of wood 22.25" long, and two pieces of wood 13.5" long. I used wood screws to attach the pieces together in such a way that allowed the screws to go completely through one piece of wood into the other (see photo below for more details). 
-
 
 To mount the monitor to the frame, I used a piece of 1" x 4" and measured out 23" to put in the back. To secure this piece of wood to the monitor, I measured out the middle of the wood (23/2 = 11.5") and added 1.5" on each side of that line to line up the *insert*. This made sure the wood was centered in the frame and on the monitor so that the screws would line up and go into the monitor. This is also shown in the first diagram image.
 
@@ -38,7 +37,7 @@ For the front part of the frame, I wanted to miter the wood so that it looked a 
 
 [![Second Milestone](https://i3.ytimg.com/vi/i6FAsCKLmbg/maxresdefault.jpg)](https://www.youtube.com/watch?v=i6FAsCKLmbg)
 
-# First Milestone
+# First Milestone (software)
 My first milestone was uploading the code from another repository onto the Raspberry Pi. There are a lot of modules (eg. weather, US holidays, news headlines, time/date) were all added to ensure I had data to display instead of just a black screen. When I first ran the program, all the modules except the weather module loaded and had data. As I was trying to fix the weather module, I ran into a few issues such as it needing an API to get the weather data from openweathermap.com. However, I didn't have an API at the time so I went on a long journey to create an API and an API key. Once I obtained both, I changed the data in the configuration module from Seattle to San Francisco. Just having an API made the module work, and I was now able to get data from the website. The code in the Raspberry Pi modules gets data from other websites. For example, the module with news headlines gets those headlines from New York Times. I also talk a little about this and point out where the weather module is on the monitor in my video.
 
 [![First Milestone](https://i3.ytimg.com/vi/DvleNuCjUB4/maxresdefault.jpg)](https://www.youtube.com/watch?v=DvleNuCjUB4)
