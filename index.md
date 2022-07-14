@@ -24,7 +24,7 @@ fig. 4
 ![Diagram 5: Redesigned Shelf Upclose](https://lh3.googleusercontent.com/Jm7Q-r6dDj9rEqiOJP_gevSjQoi_464U02eWICXaUMbrkZSmY7y_PX1ZXYqrc1LCFtm9BZwREz9L4EtE3FHcE_NI1HQX2Ipvuq3KuzbbnnWF10y0OXn1hhzTJDUVaQ7BuiURzLO6GGFXnmOQ-JiF4jka3mINm5JeZQqJtqTRTtK-66JcUC2Z1EiOY3cNlIgVmMyM7SN3_L6vZatt8vV3k24J7cdqX3hV2ZdK0PmJZpzduXocTqddQZEr2ZTNFGH9zLwCTtAko98mZVMxlAIoTiQufzJuCKdl3AgBtn-h1EvYM7WYUv9EHupvts00uTbIkBN9SyjL0IpeeqO3l_avyUGHgIZOe_1a5ILv8i3zL9E9eGiPovT9yB8MOTp9FjfzqEoFJQjsx8IdvA5oK0vauAW_DvySCyV2ECpXwraaulo-lcLUHit-3IvoDbiDj0TR1OyrB6biXQpfkUElCpDPUBV5q5sQ67LZaqFNZMY09xY2IK2G7872DL_83PM7kVSgX4iSHDeIAYUgAi-zevfSmz-Be9Rgdue9k-qCO1G2d7O1Mbn5uEkoD_xup51qfqdtMguVu9dJ7mP0cnrSZJdzrbxe9QATBIVjX5ekrwD0jaY4i2tQIQMGdZtNl-1q8-Un9tbVLNZBB1dykpjIcU7Q9cIl0HOZ5pKcaWSedCE5CuwjMogXXmb2zhBzkQRdHeA574ha48AAinJLfLKCYHqOzXXWNokDR7b_FMGJJPK-W1OKwg8d3KRpsaXGmjTrB405ZLdBkoPu3seXhw1NwIt_9-7jnC1MuT9P-_FiT5AB311janeubA_v_d2b075Fqu0YHvmqF-_sQJG-koUdUs_KaWQ22fDkmHFvBZnjZomDKlp_jMIIejN1Q-UUYytNO5SVMQRFylJMWAwPSqoY6cYyJlFsfDR_l7AvW5V3IG_PY9TZw_8z_BSI0-3eG7qYT9PNsrt9bdVl8E1o1nx6B7Ws_BcO6RXfwOFZUuUnLeTlyONI-MPBiYs4wfGB=w1303-h626-no?authuser=4)
 fig. 5
 
-I used 1" x 3" wood to make the shelf according to the diagram above and attached it to the frame using wood screws.
+I used 1" x 3" wood to make the shelf according to the diagram above and attached it to the frame using wood screws. Here's my milestone 3 video:
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
