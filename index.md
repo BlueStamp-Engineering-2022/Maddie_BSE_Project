@@ -26,7 +26,7 @@ fig. 5
 
 I used 1" x 3" wood to make the shelf according to the diagram above and attached it to the frame using wood screws. Here's my milestone 3 video:
 
-[![Final Milestone](https://i3.ytimg.com/vi/5suuOrvbCk8/maxresdefault.jpg)](https://www.youtube.com/watch?v=5suuOrvbCk8)
+[![Final Milestone](https://i3.ytimg.com/vi/CU0GW8FTGHc/maxresdefault.jpg)](https://www.youtube.com/watch?v=CU0GW8FTGHc)
 
 # Second Milestone (hardware)
 My second milestone is the hardware part of the project, which includes the frame for the monitor. To get the dimensions for my frame, I measured the monitor screen (21.5" x 12.75") and added 1/8" so it wouldn't be too tight when putting the monitor in. The wood I used for the main part of the frame is 1" x 4" (width of wood from the front is 0.75") so I added 0.75" to the monitor screen measurements to get the measurements for the individual pieces of woods that I needed to cut. After adding 0.75" to the 21.5" and 12.75" measurements, I measured and cut two pieces of wood 22.25" long, and two pieces of wood 13.5" long. I used wood screws to attach the pieces together in such a way that allowed the screws to go completely through one piece of wood into the other (see photo below for more details). 
